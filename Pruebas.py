@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-print("JAder Ana A Selienita")
-=======
 val = "Jader ama a Selena Gómez"
 print(val)
-
->>>>>>> 97e767c129aaae5dbadc9890b687c6e86ff52282
-
 
 #print('{0} es una {1} película'.format('Jurasic Park', 'buena'))
 

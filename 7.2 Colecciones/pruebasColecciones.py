@@ -1,2 +1,1 @@
-colores = ['Verde','Rojo','Azul']
-print(colores)
+print(list(range(-5,5,3)))
