@@ -1,0 +1,8 @@
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
+INSERT INTO table_name (name, email, city) VALUES ('{}', '{}', '{}')
